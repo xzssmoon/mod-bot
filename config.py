@@ -1,0 +1,5 @@
+BOT_TOKEN = "8813613364:AAGiPrCdNpFTYX60tybVzdS4YTP43qtAKtk"
+ADMIN_ID = 8570961249
+BOT_USERNAME = "NeprosStarsBot"
+BOT_NAME = "🛡 Nepros Stars Moderation"
+LOG_CHANNEL = ""
